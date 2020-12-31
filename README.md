@@ -1,2 +1,3 @@
 # RPS-project
-A simple rock paper scissors game in python. Demonstrates knowledge of basic python concepts such as looping, data types, if/else statements, etc.... Instructions for playing are in the game
+A simple rock paper scissors game in python. Demonstrates knowledge of basic python concepts such as looping, data types, if/else statements, etc.... 
+Instructions for playing are in the game. May edit later to make the code better, but for now, it works. 
